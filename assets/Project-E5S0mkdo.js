@@ -1,0 +1,1 @@
+import{j as t,P as e}from"./index-DOFo1keq.js";import{V as r}from"./View-B0b4Z9Ij.js";const i=()=>t.jsxs(t.Fragment,{children:[t.jsx(r,{title:"Projects",subtitle:"Completed",text:"Crafting Spaces, Building Legacies—Explore Our Portfolio"}),t.jsx(e,{})]});export{i as default};

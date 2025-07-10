@@ -1,1 +1,0 @@
-import{j as t,A as e}from"./index-CQDsJDAt.js";import{V as o}from"./View-DiY32oOo.js";const i=()=>t.jsxs(t.Fragment,{children:[t.jsx(o,{title:"About ",subtitle:"Our Brand",text:"Passionate About Properties, Dedicated to Your Vision"}),t.jsx(e,{})]});export{i as default};

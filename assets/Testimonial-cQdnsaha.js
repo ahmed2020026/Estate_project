@@ -1,0 +1,1 @@
+import{j as s,T as t}from"./index-DOFo1keq.js";import{V as e}from"./View-B0b4Z9Ij.js";const r=()=>s.jsxs(s.Fragment,{children:[s.jsx(e,{title:"Customer ",subtitle:"Testimonials",text:"Real Stories from Those Who Found Home with Us"}),s.jsx(t,{})]});export{r as default};

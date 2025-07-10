@@ -1,1 +1,0 @@
-import{j as t,C as e}from"./index-CQDsJDAt.js";import{V as o}from"./View-DiY32oOo.js";const r=()=>t.jsxs(t.Fragment,{children:[t.jsx(o,{title:"Contact ",subtitle:"With Us",text:"Ready to Make a Move? Let’s Build Your Future Together"}),t.jsx(e,{})]});export{r as default};
