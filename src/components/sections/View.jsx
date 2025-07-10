@@ -1,4 +1,4 @@
-import bgView from '../../assets/view.jpg'
+import bgView from '../../assets/view.webp'
 const View = (props) => {
     return (
         <div style={{ backgroundImage: `url(${bgView})` }} className='bg-cover mb-20 viewPort flex items-center justify-center'>
